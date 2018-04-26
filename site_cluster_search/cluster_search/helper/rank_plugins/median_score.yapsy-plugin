@@ -1,0 +1,9 @@
+[Core]
+Name = median_score
+Module = median_score
+
+[Documentation]
+Author = Emon Datta
+Version = 0.1
+Website = https://example.com
+Description = Rank clusters in order of their median document (search result) relevance score.

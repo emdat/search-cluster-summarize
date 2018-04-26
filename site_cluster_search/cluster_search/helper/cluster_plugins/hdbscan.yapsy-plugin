@@ -1,0 +1,9 @@
+[Core]
+Name = hdbscan
+Module = hdbscan
+
+[Documentation]
+Author = Emon Datta, using the library by lmcinnes
+Version = 0.1
+Website = https://github.com/scikit-learn-contrib/hdbscan
+Description = scikit-learn-contrib HDBSCAN algorithm

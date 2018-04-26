@@ -1,0 +1,9 @@
+[Core]
+Name = affinity_propagation
+Module = affinity_propagation
+
+[Documentation]
+Author = Emon Datta
+Version = 0.1
+Website = http://example.com
+Description = scikit's Affinity Propagation algorithm

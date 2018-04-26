@@ -1,0 +1,9 @@
+[Core]
+Name = max_score
+Module = max_score
+
+[Documentation]
+Author = Emon Datta
+Version = 0.1
+Website = https://example.com
+Description = Rank clusters in order of their highest document (search result) relevance score.

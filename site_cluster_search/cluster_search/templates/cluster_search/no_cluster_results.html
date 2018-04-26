@@ -1,0 +1,12 @@
+<table border="1" width="100%">
+    <td> 
+      {% for r in results %}
+        <h3 style="margin-bottom:-10px;margin-left:10px;margin-right:10px;"> <a href={{r.url}}>
+          {{r.title}}
+        </a> </h3>
+        <p style="margin-bottom:10px;margin-left:10px;margin-right:10px;">
+          {{r.highlight_str | safe}}
+        </p>
+      {% endfor %}
+    </td>
+<table>

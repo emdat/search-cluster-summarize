@@ -1,0 +1,9 @@
+[Core]
+Name = dbscan
+Module = dbscan
+
+[Documentation]
+Author = Emon Datta
+Version = 0.1
+Website = http://example.com
+Description = sklearn's DBSCAN algorithm

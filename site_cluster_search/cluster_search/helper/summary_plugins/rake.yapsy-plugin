@@ -1,0 +1,9 @@
+[Core]
+Name = rake
+Module = rake
+
+[Documentation]
+Author = Emon Datta, using csurfer's implementation
+Version = 0.1
+Website = https://github.com/csurfer/rake-nltk
+Description = RAKE keyword extractor for cluster summaries
